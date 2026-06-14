@@ -1,0 +1,43 @@
+:root {
+  /* Brand & semantic colors */
+  --color-primary: #1677ff;
+  --color-bg-page: #f5f7fa;
+  --color-bg-surface: #ffffff;
+  --color-bg-muted: #fafafa;
+  --color-border: #e4e7ed;
+  --color-text-primary: #303133;
+  --color-text-regular: #606266;
+  --color-text-secondary: #909399;
+
+  /* Typography */
+  --font-family: 'PingFang SC', 'Microsoft YaHei', 'Helvetica Neue', Arial, sans-serif;
+  --font-size-base: 14px;
+  --line-height-base: 1.6;
+
+  /* Spacing (4px scale) */
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+
+  /* Radius */
+  --radius-md: 6px;
+  --radius-lg: 8px;
+
+  --shadow-none: none;
+
+  /* Element Plus theme mapping (additive, non-destructive) */
+  --el-color-primary: #1677ff;
+  --el-color-success: #52c41a;
+  --el-color-warning: #faad14;
+  --el-color-danger: #ff4d4f;
+  --el-color-info: #8c8c8c;
+  --el-bg-color-page: #f5f7fa;
+  --el-border-color-light: #e4e7ed;
+  --el-text-color-primary: #303133;
+  --el-text-color-regular: #606266;
+  --el-text-color-secondary: #909399;
+}

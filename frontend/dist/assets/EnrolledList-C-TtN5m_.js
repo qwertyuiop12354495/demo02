@@ -1,0 +1,1 @@
+import{F as e}from"./FeaturePlaceholder-C99KqW62.js";import{d as o,e as t,o as r}from"./index-C7A33YCl.js";const i=o({__name:"EnrolledList",setup(a){return(n,s)=>(r(),t(e,{title:"已报名",description:"查看省级审核通过并完成流程的作品。"}))}});export{i as default};

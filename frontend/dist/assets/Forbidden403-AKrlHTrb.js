@@ -1,0 +1,1 @@
+import{F as e}from"./FeaturePlaceholder-C99KqW62.js";import{d as o,e as r,o as t}from"./index-C7A33YCl.js";const i=o({__name:"Forbidden403",setup(a){return(n,c)=>(t(),r(e,{title:"403 无权限访问",description:"您没有权限访问此页面。如有疑问请联系管理员。"}))}});export{i as default};

@@ -1,0 +1,8 @@
+# 仅用于本地开发（spring.profiles.active=dev），禁止在生产环境启用此 profile。
+spring:
+  datasource:
+    password: ${DB_PASSWORD:6419966wx}
+
+app:
+  jwt:
+    secret: ${JWT_SECRET:dev-local-jwt-secret-change-before-any-shared-env}

@@ -1,0 +1,1 @@
+import{d as e,e as s,w as o,h as l,r,o as n,g as c}from"./index-C7A33YCl.js";const p=e({__name:"PortalGlassCard",props:{float:{type:Boolean,default:!0},tag:{default:"div"}},setup(a){return(t,d)=>(n(),s(r(a.tag),{class:l(["portal-glass-card",{"portal-glass-card--float":a.float}])},{default:o(()=>[c(t.$slots,"default")]),_:3},8,["class"]))}});export{p as _};

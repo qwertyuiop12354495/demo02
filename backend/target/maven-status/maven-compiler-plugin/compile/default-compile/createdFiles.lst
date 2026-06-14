@@ -1,0 +1,11 @@
+com\example\activity\common\scope\ScopeNameMatcher$1.class
+com\example\activity\service\support\ReviewRecordResultUpdater$1.class
+com\example\activity\service\support\WorkReviewScopeQueryBuilder$1.class
+com\example\activity\service\impl\ActivityServiceImpl$1.class
+com\example\activity\service\support\ScoreScopeQueryBuilder$1.class
+com\example\activity\service\support\ScorePromotionPolicy$1.class
+com\example\activity\service\support\NoticeScopeMatcher$1.class
+com\example\activity\service\support\RegistrationScopeQueryBuilder$1.class
+com\example\activity\service\support\PromotionSummaryScopeBuilder$1.class
+com\example\activity\common\enums\RoleTypeEnum$1.class
+com\example\activity\service\support\ScopedScorerCounter$1.class

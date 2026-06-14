@@ -1,0 +1,26 @@
+:root {
+  --portal-gradient-start: #0a2a6b;
+  --portal-gradient-mid: #1677ff;
+  --portal-gradient-end: #0d1f4a;
+  --portal-gradient: linear-gradient(
+    135deg,
+    var(--portal-gradient-start) 0%,
+    var(--portal-gradient-mid) 45%,
+    var(--portal-gradient-end) 100%
+  );
+
+  --portal-text-on-dark: #ffffff;
+  --portal-text-on-dark-muted: rgba(255, 255, 255, 0.78);
+  --portal-glass-bg: rgba(255, 255, 255, 0.92);
+  --portal-glass-border: rgba(255, 255, 255, 0.35);
+  --portal-card-shadow: 0 8px 32px rgba(10, 42, 107, 0.12);
+  --portal-card-shadow-hover: 0 16px 48px rgba(10, 42, 107, 0.2);
+  --portal-navbar-bg: rgba(255, 255, 255, 0.1);
+  --portal-navbar-border: rgba(255, 255, 255, 0.18);
+  --portal-btn-gradient: linear-gradient(135deg, #4096ff 0%, #1677ff 50%, #0958d9 100%);
+  --portal-glow-1: rgba(64, 150, 255, 0.45);
+  --portal-glow-2: rgba(22, 119, 255, 0.35);
+  --portal-section-light: #f0f5ff;
+  --portal-transition: 0.2s ease;
+  --portal-float-distance: 6px;
+}

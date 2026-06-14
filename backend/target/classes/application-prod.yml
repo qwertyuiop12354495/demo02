@@ -1,0 +1,9 @@
+# 生产环境必须通过环境变量注入敏感配置，不得使用默认值。
+spring:
+  datasource:
+    password: ${DB_PASSWORD}
+    username: ${DB_USERNAME}
+
+app:
+  jwt:
+    secret: ${JWT_SECRET}
